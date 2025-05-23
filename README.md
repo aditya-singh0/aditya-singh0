@@ -14,6 +14,7 @@ I'm a passionate **Software Engineer** with **3+ years of experience** in buildi
 - 🌱 Learning: **Advanced MLOps** and **Distributed Systems Architecture**
 - 💬 Ask me about: **Backend Development**, **Machine Learning**, **Data Engineering**
 - ⚡ Fun fact: Achieved **World Rank 31** out of 5,000+ in Xiaomi's programming competition!
+- AI - Used LLM intregration to build quesion chatbot real estate queries.
 
 ## 🛠️ Tech Stack
 
