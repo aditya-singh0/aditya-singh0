@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with **3+ years of experience** in building scalable backend systems and machine learning applications. Currently working at **Turbostart**, where I develop SaaS platforms managing **$50M+ real estate portfolios** for 100+ HNI clients.
+I'm a passionate **Software Engineer** with **3+ years of experience** in building scalable backend systems and machine learning applications. Currently working at **Turbostart**, where I develop SaaS platforms managing **$50M+ real estate portfolios** for 100+ HNI clients and LLM for question answering for Real-Estate realted queries.
 
 - 🔭 Currently working on: **BAM and Realm** - Revolutionary SaaS platforms for real estate portfolio management
 - 🌱 Learning: **Advanced MLOps** and **Distributed Systems Architecture**
