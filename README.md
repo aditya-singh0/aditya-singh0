@@ -63,7 +63,7 @@ I'm a **Software Developer** with 3+ years of experience in backend systems and 
 
 ### 🏢 **Turbostart** (Apr 2025 – Present)
 **Software Engineer** - Backend Development & ML
-- Spearheaded development of **BAM and Realm** SaaS platforms serving 100+ HNI clients managing **$50M+** in real estate
+- Spearheaded development of **Realm** SaaS platforms serving 100+ HNI clients managing **$50M+** in real estate
 - Engineered scalable backend architecture using **Python and Django**, boosting data processing speeds by **65%** and supporting **3x user load growth**
 - Developed end-to-end automation with **TROCR (Transformers OCR)** achieving **95% bypass success rate**
 - Built comprehensive PDF extraction and OCR system processing **1000+ documents** with **92% accuracy** using LLM-based JSON generation
