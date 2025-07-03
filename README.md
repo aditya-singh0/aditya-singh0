@@ -1,120 +1,107 @@
 # Hi there, I'm Aditya Singh! 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD8&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+ML+Enthusiast;Backend+Systems+Architect;3%2B+Years+of+Experience;Always+Learning+Something+New!)](https://git.io/typing-svg)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-21092000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghw84it@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919711762763)
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with **3+ years of experience** in building scalable backend systems and machine learning applications. Currently working at **Turbostart**, where I develop SaaS platforms managing **$50M+ real estate portfolios** for 100+ HNI clients and LLM for question answering for Real-Estate realted queries.
+I'm a **Data Engineer** with 3+ years of experience building distributed data pipelines and cloud-native analytics solutions. I specialize in creating scalable, reliable data workflows that handle everything from real-time streaming to massive batch processing.
 
-- 🔭 Currently working on: **BAM and Realm** - Revolutionary SaaS platforms for real estate portfolio management
-- 🌱 Learning: **Advanced MLOps** and **Distributed Systems Architecture**
-- 💬 Ask me about: **Backend Development**, **Machine Learning**, **Data Engineering**
-- ⚡ Fun fact: Achieved **World Rank 31** out of 5,000+ in Xiaomi's programming competition!
-- AI - Used LLM intregration to build chatbot for real estate queries.
+- 🔭 Currently working at **Turbostart**, building PySpark pipelines for real estate analytics managing $50M+ in assets
+- 🌱 Passionate about **Big Data**, **Cloud Computing**, and **Machine Learning**
+- 🎯 Experienced with **GCP**, **AWS**, and building production-grade data systems
+- 💡 Love solving complex data challenges and optimizing pipeline performance
+- 🏆 Ranked **World #31** in Xiaomi Ode2Code and **Top 13%** globally in Google Kick Start
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Big Data & Analytics
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Cloud & Data Warehousing
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-singh0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya-singh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-singh0&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-singh0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🏆 Achievements & Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-singh0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+- 🎖️ **World #31** in Xiaomi Ode2Code Competition
+- 🏅 **Top 13%** globally in Google Kick Start
+- 🧑‍🏫 **Mentored 50+ learners** in Big Data and ML at Scaler - 18 placed in top-tier companies
+- 🎯 **Samsung Professional Test** - Top 2% among 3.5K+ candidates
+- 💪 **500+ LeetCode problems** solved (Top 5%)
+- 📚 **Certified** in Big Data from UCSD and IBM
 
-## 🏆 Key Achievements
+## 💼 Professional Experience
 
-- 🎯 **95% OCR accuracy** in PDF extraction systems using TROCR and LLM integration
-- ⚡ **65% improvement** in data processing speeds through optimized backend architecture
-- 🚀 **99.9% uptime** maintained across production ML systems
-- 🏅 **World Rank 31** in Xiaomi's Ode 2 Code 2021 (top 0.6% of 5,000+ participants)
-- 📈 **Top 5% globally** on LeetCode with 500+ problems solved
-- 👨‍🏫 **Mentored 50+ students** at Scaler Academy with 95% satisfaction rate
+### 🏢 **Turbostart** (Apr 2025 – Present)
+- Developed scalable PySpark pipelines for real estate analytics managing **$50M+** in assets
+- Built GCP-native data pipelines using BigQuery, Dataflow, and Cloud Functions
+- Automated PDF data extraction with OCR + PySpark, **increasing efficiency by 65%**
 
-## 💼 Professional Highlights
+### 🏢 **QLink Software** (Dec 2024 – Mar 2025)
+- Designed ETL workflows using PySpark and GCP Dataflow for telecom analytics
+- Built BigQuery-based analytical models powering client dashboards
+- **Optimized pipeline runtimes by 30%** using Apache Airflow automation
 
-### 🏢 Current Role - Turbostart (April 2025 - Present)
-- Architected SaaS platforms managing **$50M+ real estate portfolios**
-- Built ML-powered PDF extraction system with **95% bypass success rate**
-- Improved query response time by **40%** through optimized database solutions
+### 🏢 **Samsung R&D Institute** (Aug 2023 – Nov 2024)
+- Processed **8TB+ monthly ADAS sensor data** using PySpark on GCP
+- Developed Kafka streaming jobs integrated with GCP Pub/Sub and Dataflow
+- Supported internal LLM analytics platform serving **250+ users**
 
-### 🔬 Samsung R&D Institute (Aug 2023 - Nov 2024)
-- Developed **ML-powered depth estimation** systems for ADAS applications
-- Built production pipelines processing **8TB+ monthly data**
-- Reduced inference latency by **25%** for Samsung's LLM platform
+## 🎓 Education
 
-## 🌟 Featured Projects
+**Delhi Technological University** | B.E. in Mathematics and Computing (2019-2023)  
+**CGPA:** 8.32/10  
+**Relevant Courses:** Big Data Analytics, Cloud Computing, Machine Learning, DBMS
 
-### 🔍 Real-time Context Retrieval System
-- **100+ queries/second** processing capability using FAISS indexing
-- **4x performance improvement** over traditional systems
-- **85% reduction** in query time with semantic search algorithms
+## 🌟 What I'm Working On
 
-### 💬 Django Communication Platform
-- Supports **500+ daily active users**
-- **10,000+ concurrent WebSocket connections** with <50ms latency
-- **65% faster** query performance with optimized database schema
-
-## 🎓 Education & Certifications
-
-**Delhi Technological University** - B.E. in Mathematics and Computing (CGPA: 8.32/10)
-
-**Certifications:**
-- 4 Machine Learning & Deep Learning Specializations (Coursera) - 98% average score
-- Samsung Advanced and Professional Test - 92% score (Top 2%)
+- 🔧 Building next-generation data pipelines for real-time analytics
+- 🚀 Exploring MLOps and DataOps best practices
+- 📈 Contributing to open-source big data projects
+- 🎯 Preparing for advanced cloud certifications
 
 ## 📫 Let's Connect!
 
-<div align="center">
+I'm always excited to collaborate on interesting data engineering projects or discuss the latest in big data technologies. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-21092000)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghw84it@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-singh0)
-
-</div>
+- 💼 **Professional:** [LinkedIn](https://linkedin.com/in/aditya-singh-21092000)
+- 📧 **Email:** adityasinghw84it@gmail.com
+- 📱 **Phone:** +91-9711762763
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-singh0&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <i>⭐ Star my repositories if you find them useful!</i>
 </div>
 
 <div align="center">
-  
-**"Building scalable solutions, one commit at a time."** 🚀
-
+  <img src="https://komarev.com/ghpvc/?username=aditya-singh0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
