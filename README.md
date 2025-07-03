@@ -57,7 +57,6 @@ I'm a **Software Developer** with 3+ years of experience in backend systems and 
 - 🧑‍🏫 **Mentored 50+ learners** in Big Data and ML at Scaler - 18 placed in top-tier companies
 - 🎯 **Samsung Professional Test** - Top 2% among 3.5K+ candidates
 - 💪 **500+ LeetCode problems** solved (Top 5%)
-- 📚 **Certified** in Big Data from UCSD and IBM
 
 ## 💼 Professional Experience
 
