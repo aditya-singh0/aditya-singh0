@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer** with 3+ years of experience building distributed data pipelines and cloud-native analytics solutions. I specialize in creating scalable, reliable data workflows that handle everything from real-time streaming to massive batch processing.
+I'm a **Software Developer** with 3+ years of experience in backend systems and machine learning applications. I specialize in developing high-performance backend services, ML pipelines, and scalable data processing systems.
 
-- 🔭 Currently working at **Turbostart**, building PySpark pipelines for real estate analytics managing $50M+ in assets
-- 🌱 Passionate about **Big Data**, **Cloud Computing**, and **Machine Learning**
-- 🎯 Experienced with **GCP**, **AWS**, and building production-grade data systems
-- 💡 Love solving complex data challenges and optimizing pipeline performance
+- 🔭 Currently working at **Turbostart**, building scalable backend architecture with Python/Django for SaaS platforms managing $50M+ in assets
+- 🌱 Passionate about **Backend Development**, **Machine Learning**, and **Data Engineering**
+- 🎯 Experienced with **Django**, **Flask**, **MLOps**, and building production-grade systems
+- 💡 Love solving complex backend challenges and optimizing system performance
 - 🏆 Ranked **World #31** in Xiaomi Ode2Code and **Top 13%** globally in Google Kick Start
 
 ## 🛠️ Tech Stack
@@ -26,11 +26,12 @@ I'm a **Data Engineer** with 3+ years of experience building distributed data pi
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,36 +62,42 @@ I'm a **Data Engineer** with 3+ years of experience building distributed data pi
 ## 💼 Professional Experience
 
 ### 🏢 **Turbostart** (Apr 2025 – Present)
-- Developed scalable PySpark pipelines for real estate analytics managing **$50M+** in assets
-- Built GCP-native data pipelines using BigQuery, Dataflow, and Cloud Functions
-- Automated PDF data extraction with OCR + PySpark, **increasing efficiency by 65%**
+**Software Engineer** - Backend Development & ML
+- Spearheaded development of **BAM and Realm** SaaS platforms serving 100+ HNI clients managing **$50M+** in real estate
+- Engineered scalable backend architecture using **Python and Django**, boosting data processing speeds by **65%** and supporting **3x user load growth**
+- Developed end-to-end automation with **TROCR (Transformers OCR)** achieving **95% bypass success rate**
+- Built comprehensive PDF extraction and OCR system processing **1000+ documents** with **92% accuracy** using LLM-based JSON generation
 
 ### 🏢 **QLink Software** (Dec 2024 – Mar 2025)
-- Designed ETL workflows using PySpark and GCP Dataflow for telecom analytics
-- Built BigQuery-based analytical models powering client dashboards
-- **Optimized pipeline runtimes by 30%** using Apache Airflow automation
+**Engineer** - Big Data & Analytics
+- Designed scalable **ETL workflows** using PySpark and GCP Dataflow for telecom analytics
+- Built **BigQuery-based analytical models** powering client reporting dashboards  
+- Implemented automated scheduling using **Apache Airflow** and **optimized pipeline runtimes by 30%**
+- Collaborated with DevOps team to containerize data jobs with **Docker** and deploy using **Jenkins pipelines**
 
 ### 🏢 **Samsung R&D Institute** (Aug 2023 – Nov 2024)
-- Processed **8TB+ monthly ADAS sensor data** using PySpark on GCP
-- Developed Kafka streaming jobs integrated with GCP Pub/Sub and Dataflow
-- Supported internal LLM analytics platform serving **250+ users**
+**Software Development Engineer** - Backend & ML Systems
+- Architected **ML-powered real-time depth estimation systems** for ADAS applications used in **5+ vehicle models**
+- Built and deployed production ML pipelines processing **8TB+ data monthly**, reducing model training time by **30%**
+- Led backend services development for **Samsung's LLM platform (Code.i)** serving **250+ internal developers**
+- Constructed scalable data processing pipelines handling **10+ million entries daily**, saving **420 compute hours monthly**
 
 ## 🎓 Education
 
 **Delhi Technological University** | B.E. in Mathematics and Computing (2019-2023)  
 **CGPA:** 8.32/10  
-**Relevant Courses:** Big Data Analytics, Cloud Computing, Machine Learning, DBMS
+**Relevant Courses:** Data Structures & Algorithms, Database Management Systems, Machine Learning, Computer Networks, Advanced Python Programming
 
 ## 🌟 What I'm Working On
 
-- 🔧 Building next-generation data pipelines for real-time analytics
-- 🚀 Exploring MLOps and DataOps best practices
-- 📈 Contributing to open-source big data projects
-- 🎯 Preparing for advanced cloud certifications
+- 🔧 Building high-performance backend systems with Django and Flask
+- 🚀 Exploring MLOps and scalable ML pipeline architectures  
+- 📈 Contributing to open-source backend and ML projects
+- 🎯 Developing efficient data processing and analytics solutions
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on interesting data engineering projects or discuss the latest in big data technologies. Feel free to reach out!
+I'm always excited to collaborate on interesting backend development projects or discuss the latest in ML and data engineering technologies. Feel free to reach out!
 
 - 💼 **Professional:** [LinkedIn](https://linkedin.com/in/aditya-singh-21092000)
 - 📧 **Email:** adityasinghw84it@gmail.com
