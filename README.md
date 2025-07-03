@@ -13,6 +13,7 @@ I'm a **Software Developer** with 3+ years of experience in backend systems and 
 - 🎯 Experienced with **Django**, **Flask**, **MLOps**, and building production-grade systems
 - 💡 Love solving complex backend challenges and optimizing system performance
 - 🏆 Ranked **World #31** in Xiaomi Ode2Code and **Top 13%** globally in Google Kick Start
+- 🏆 Also responsible for CPU and memory profiling in XR technology.
 
 ## 🛠️ Tech Stack
 
