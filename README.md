@@ -79,7 +79,6 @@ I'm a **Software Developer** with 3+ years of experience in backend systems and 
 **Software Development Engineer** - Backend & ML Systems
 - Architected **ML-powered real-time depth estimation systems** for ADAS applications used in **5+ vehicle models**
 - Built and deployed production ML pipelines processing **8TB+ data monthly**, reducing model training time by **30%**
-- Led backend services development for **Samsung's LLM platform (Code.i)** serving **250+ internal developers**
 - Constructed scalable data processing pipelines handling **10+ million entries daily**, saving **420 compute hours monthly**
 
 ## 🎓 Education
