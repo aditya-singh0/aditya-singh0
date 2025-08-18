@@ -6,10 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** with 3+ years of experience building scalable backend systems and production-grade ML workflows. I specialize in distributed architectures, OCR, real-time analytics, and large-scale data processing.
+I'm a **Software Developer** with 3+ years of experience building scalable backend systems and production-grade ML workflows. I specialize in distributed architectures, OCR, Backend, Machine learning, Computer vision, 
+ML across edge devices.
 
 - 🧠 Strong in **Python, Django, ML model pipelines**, and data infrastructure
-- 🔭 Currently at **Turbostart**, building real estate SaaS platforms managing **$50M+** in assets
+- 🔭 ex engineer at **Turbostart**, building real estate SaaS platforms managing **$50M+** in assets
 - 🧩 Previously at **Samsung R&D**, deploying CV pipelines for **ADAS** and **XR apps** across 5+ vehicle models
 - ⚙️ Shipped scalable ML pipelines processing **8TB+ data/month** and REST APIs serving **10K+ daily requests**
 - 🧪 Passionate about **backend engineering**, **AI SaaS**, **OCR**, and **ML system design**
