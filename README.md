@@ -3,7 +3,7 @@
 [![Resume PDF](https://github.com/aditya84it/aditya84it/raw/main/aditya_resume.pdf)](https://github.com/aditya84it/aditya84it/raw/main/aditya_resume.pdf)
 &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya84it-0077B5?logo=linkedin)](https://linkedin.com/in/aditya84it)
 &nbsp;[![Email](https://img.shields.io/badge/Email-adityasinghw84it@gmail.com-D14836?logo=gmail)](mailto:adityasinghw84it@gmail.com)
-&nbsp;[![Location](https://img.shields.io/badge/Location-San%20Francisco-green?logo=google-maps)](https://www.google.com/maps/place/San+Francisco,+CA)
+
 
 > 3+ yr shipping **billion-token ranking systems** (8 TB/mo, 100 QPS).  
 > Built GPU pipelines, K8s micro-services, real-time vector stores.  
