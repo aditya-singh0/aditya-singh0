@@ -83,5 +83,3 @@ Latest single-page PDF always here → [aditya_resume.pdf](https://github.com/ad
 
 ## 📬 Contact
 
-Open to **in-person SF roles** and **visa sponsorship** (STEM-OPT, H1B, etc.).  
-DM on [LinkedIn](https://linkedin.com/in/aditya84it) or email above.
