@@ -1,78 +1,45 @@
-% =====================  ADITYA  SINGH  –  ONE-PAGE  RÉSUMÉ  =====================
-\documentclass[10pt]{article}
-\usepackage[margin=0.55in]{geometry}
-\usepackage{fontawesome5}
-\usepackage{hyperref}
-\usepackage{titlesec}
-\usepackage{tabularx}
-\usepackage{xcolor}
-\definecolor{darkblue}{HTML}{0A1F44}
-\hypersetup{colorlinks=true,urlcolor=darkblue}
-\titleformat{\section}{\large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
-\setlength{\parindent}{0pt}\setlength{\tabcolsep}{0pt}
+# Aditya Singh | Machine-Learning Engineer – Search & Retrieval
 
-\begin{document}
-{\LARGE \textbf{Aditya Singh}} \hfill \faIcon{map-marker} San Francisco (open to relocate)\\[2pt]
-\faIcon{envelope} \href{mailto:adityasinghw84it@gmail.com}{adityasinghw84it@gmail.com}
-\quad \faIcon{phone} +91-9711762763
-\quad \faIcon{github} \href{https://github.com/aditya84it}{aditya84it}
-\quad \faIcon{linkedin} \href{https://linkedin.com/in/aditya84it}{aditya84it}
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-darkblue.svg)](https://github.com/aditya84it/aditya84it/blob/main/aditya_resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya84it-0077B5?logo=linkedin)](https://linkedin.com/in/aditya84it)
+[![Email](https://img.shields.io/badge/Email-adityasinghw84it@gmail.com-D14836?logo=gmail)](mailto:adityasinghw84it@gmail.com)
 
-\section*{Machine-Learning Engineer | Large-Scale Search \& Retrieval}
-1+ yr shipping billion-token ranking systems (8 TB/mo, 100 QPS). Built GPU pipelines, K8s micro-services, real-time vector stores. Comfortable full-stack (React, Node, FastAPI) and writing Rust for high-performance crawlers.
+1+ year shipping **billion-token ranking systems** (8 TB/mo, 100 QPS).  
+Built GPU pipelines, K8s micro-services, real-time vector stores.  
+Comfortable **full-stack** (React, Node, FastAPI) and writing **Rust** for high-performance crawlers.
 
-\section*{Core Toolkit}
-\begin{tabularx}{\linewidth}{@{}lX}
-\textbf{LLM / Prompting} & GPT-4, Claude, RAG, ReAct, few-shot eval harnesses\\
-\textbf{Vector Retrieval} & FAISS, ScaNN, BigQuery ANN, Elasticsearch, Rust indices (WIP)\\
-\textbf{ML Frameworks} & PyTorch, TensorFlow, Spark-MLlib, Vertex AI, GCP H100/A100\\
-\textbf{Back-end} & FastAPI, Go (basic), Rust (learning), Docker, Kubernetes, Airflow\\
-\textbf{Front-end} & React, Next.js, Tailwind (ship UI in hours)\\
-\textbf{Data @ Scale} & 8 TB/mo, Delta Live Tables, DVC, Grafana, MLflow\\
-\end{tabularx}
+---
 
-\section*{Experience}
-\textbf{Samsung R\&D} — \textit{ML Engineer} \hfill Aug 2023 – Nov 2024\\
-$\bullet$ End-to-end ranking pipeline for ADAS depth-estimation; cut training 30 \% on 8 TB/mo.\\
-$\bullet$ 12 GPU micro-services (CV + LLM) on K8s; autoscale 0→200 pods, p99 80 ms.\\
-$\bullet$ A/B features → NDCG +12 \%, CTR +8 \%; exec pitch → two-quarter roadmap.
+## 🔥 Featured Projects
 
-\textbf{QLink (Remote)} — \textit{MLOps Engineer} \hfill Jul 2022 – Aug 2023\\
-$\bullet$ FastAPI backend 10 k+ daily queries p95 < 40 ms on Azure Container Apps.\\
-$\bullet$ Airflow DAGs (DVC + Grafana) caught embedding drift 36 h pre-impact.
+| Project | Tech | Key Metric | Repo |
+|---|---|---|---|
+| **Chat-with-Search UI** | Next.js, Tailwind, Qdrant, ReAct | 150 conc. users, p95 650 ms | [`chat-search-ui`](chat-search-ui) |
+| **Day-Long Agentic Orchestrator** | Python asyncio, Celery, K8s | 27 h job, 1 400 CPU-days, 38 % GPU idle saved | [`agent-orchestrator`](agent-orchestrator) |
+| **Rust Crawler Boost** | Rust async, HTTP/2, SIMD | 58 k pages/sec, 3.2× vs. scrapy | [`rust-crawler`](rust-crawler) |
+| **Zero-Query Homepage Recs** | TensorFlow, BigQuery, FAISS | +5.4 % add-to-cart, 100 QPS, p99 120 ms | [`zero-query-recs`](zero-query-recs) |
+| **Governed Feature Store** | Databricks, Unity Catalog, MLflow | 600+ features, 25 % compute cut, \$4 k/mo saved | [`feature-store`](feature-store) |
 
-\textbf{Turbostart} — \textit{Software Engineer} \hfill Apr 2025 – Jul 2025\\
-$\bullet$ Real-estate search (Transformer-OCR + LLM); blue-green K8s, 0-downtime.
+---
 
-\section*{Projects (Hack-Days → Production)}
+## 🛠️ Stack Snapshot
 
-\textbf{1. Chat-with-Search UI} \textit{Next.js, Tailwind, Qdrant, ReAct prompts}\\
-$\bullet$ 48 h build; streams 200-word summaries from自建vector DB.\\
-$\bullet$ 150 concurrent users, p95 650 ms, 99 % uptime on Vercel.
-\vspace{1.25em}
+**LLM / Prompting** GPT-4, Claude, RAG, ReAct, few-shot eval  
+**Vector Retrieval** FAISS, ScaNN, BigQuery ANN, Elasticsearch, Rust indices  
+**ML Frameworks** PyTorch, TensorFlow, Spark-MLlib, Vertex AI, GCP H100/A100  
+**Back-end** FastAPI, Go (basic), Rust (learning), Docker, Kubernetes, Airflow  
+**Front-end** React, Next.js, Tailwind → ship UI in hours  
+**Data @ Scale** 8 TB/mo, Delta Live Tables, DVC, Grafana, MLflow  
 
-\textbf{2. Day-Long Agentic Orchestrator} \textit{Python asyncio, Celery, K8s CronWorkflow}\\
-$\bullet$ Multi-step research (query → crawl → embed → rank → synthesize).\\
-$\bullet$ Checkpoints every 5 min; longest job 27 h, 1 400 CPU-days; 38 % GPU idle saved.
-\vspace{1.25em}
+---
 
-\textbf{3. Rust Crawler Boost} \textit{Rust async, HTTP/2, bloom-filter, SIMD}\\
-$\bullet$ 58 k pages/sec, 3.2× vs. Python scrapy on 64 vCPU.\\
-$\bullet$ Politeness p95 < 50 ms via adaptive concurrency + memory-mapped robots.txt cache.
-\vspace{1.25em}
+## 📄 Résumé
 
-\textbf{4. Zero-Query Homepage Recs} \textit{TensorFlow, BigQuery, FAISS, AKS-KEDA}\\
-$\bullet$ Transformer seq-model for cold-start users; add-to-cart +5.4 % (2 M user A/B).\\
-$\bullet$ 100 QPS, KEDA 5→120 pods, p99 120 ms, 99.9 % availability.
-\vspace{1.25em}
+Latest single-page PDF always here → [aditya_resume.pdf](aditya_resume.pdf)
 
-\textbf{5. Governed Feature Store} \textit{Databricks, Unity Catalog, MLflow}\\
-$\bullet$ 600+ features with lineage and drift alerts; 25 \% compute cut, \$4 k/mo saved.
+---
 
-\section*{Education}
-\textbf{B.E. Mathematics \& Computing}, Delhi Technological University \hfill 2019 – 2023\\
-Publication: “Graph-Augmented Neural Ranking for E-commerce Search” CIKM 2023.
+## 📬 Contact
 
-\section*{Misc}
-4× Coursera DL specializations $\cdot$ Top 2 \% Samsung Pro Test (3 500+) $\cdot$ Visa sponsorship OK.
-\end{document}
+Open to **in-person SF roles** and **visa sponsorship** (STEM-OPT, H1B, etc.).  
+DM on [LinkedIn](https://linkedin.com/in/aditya84it) or email above.
