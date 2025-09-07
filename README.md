@@ -5,7 +5,7 @@
 &nbsp;[![Email](https://img.shields.io/badge/Email-adityasinghw84it@gmail.com-D14836?logo=gmail)](mailto:adityasinghw84it@gmail.com)
 &nbsp;[![Location](https://img.shields.io/badge/Location-San%20Francisco-green?logo=google-maps)](https://www.google.com/maps/place/San+Francisco,+CA)
 
-> 1+ yr shipping **billion-token ranking systems** (8 TB/mo, 100 QPS).  
+> 3+ yr shipping **billion-token ranking systems** (8 TB/mo, 100 QPS).  
 > Built GPU pipelines, K8s micro-services, real-time vector stores.  
 > Comfortable **full-stack** (React, Node, FastAPI) and writing **Rust** for high-performance crawlers.
 
