@@ -1,4 +1,4 @@
-# Aditya Singh | Machine-Learning Engineer – Search & Retrieval
+# Aditya Singh | Machine-Learning Engineer
 
 [![Resume PDF](https://github.com/aditya84it/aditya84it/raw/main/aditya_resume.pdf)](https://github.com/aditya84it/aditya84it/raw/main/aditya_resume.pdf)
 &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya84it-0077B5?logo=linkedin)](https://linkedin.com/in/aditya84it)
